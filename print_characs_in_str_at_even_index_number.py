@@ -8,3 +8,5 @@ string = input("Enter a word: ")
 #printing original string
 print(f"The original word is {string}")
 # print(user[::2])
+print("Printing only even index characters")
+print(string[::2])
