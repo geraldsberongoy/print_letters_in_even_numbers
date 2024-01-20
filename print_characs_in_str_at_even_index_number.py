@@ -2,5 +2,9 @@
 # Write a program to accept a string from the user and display characters that are present at an even index number.
 
 # pseudocode
+
 # user input
-# print(user[0::2])
+string = input("Enter a word: ")
+#printing original string
+print(f"The original word is {string}")
+# print(user[::2])
